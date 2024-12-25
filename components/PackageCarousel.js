@@ -42,7 +42,6 @@ function PackageCarousel() {
           ))}
         </CarouselContent>
 
-        {/* Carousel navigation buttons */}
         <CarouselPrevious className="absolute left-0 top-1/2 -translate-y-1/2 bg-gray-800 text-white p-2 rounded-full shadow-lg">
           &#8592;
         </CarouselPrevious>
